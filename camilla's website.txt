@@ -1,0 +1,720 @@
+<html>
+	
+</p>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  text-shadow: 3px 3px #E0EBC6;
+}
+</style>
+</head>
+<body>
+
+<h1></h1>
+
+<p><b></b> </p>
+
+</body>
+</style>
+</head>
+<body>    
+<body>
+<p>
+<body>
+<p>
+<!DOCTYPE html>
+<html lang = "en-US">
+ <head>
+ <meta charset = "UTF-8">
+ <style type = "text/css">
+  h1 {
+  border-color: #C3C5E0;
+  border-width: .20em;
+  border-style: double;
+}</p>
+ </style>
+ </head>
+ <body>
+ <right><h1><marquee style="font-size:45pt;"scrollamount="10" direction="right" 
+
+    behavior="alternate"><b>Camilla's E-portfollio</b></marquee> </h1></right></h1>
+<!DOCTYPE html>
+<html lang = "en-US">
+ <head>
+ <meta charset = "UTF-8">
+ <style type = "text/css">
+  h1 {
+  border-color: #C3C5E0;
+  border-width: .20em;
+  border-style: double;
+  }</p>
+ </style>
+ </head>
+ <body>
+ <right><h1></h1></right></h
+
+</p>
+ 
+	</head>
+<body>
+
+
+
+</body>
+   <p><body style="background-color:#faf0e6;"></p>
+
+        <script type="text/javascript"> 
+	var msg  = document.title; 
+	var speed = 150; 
+	var endChar = "...";  
+	var pos = 0; 
+	 function moveTitle() 
+
+        { 
+	var ml = msg.length; 
+
+       title = msg.substr(pos,ml) + endChar + msg.substr(0,pos); 
+	document.title = title; 
+
+       pos++; 
+	if (pos > ml) pos=0; 
+	window.setTimeout("moveTitle()",speed); 
+
+        } 
+	 moveTitle(); 
+	</script> 
+	<head> 
+	<p> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<style> 
+	/* width */ 
+	::-webkit-scrollbar { 
+	width: 20px; 
+	} 
+	/* Track */ 
+::-webkit-scrollbar-track { 
+box-shadow: inset 0 0 5px grey;  
+border-radius: 10px; 
+
+} 
+<head> 
+/* Handle */ 
+
+::-webkit-scrollbar-thumb { 
+background: black;  
+border-radius: 10px; 
+
+} 
+
+ /* Handle on hover */ 
+::-webkit-scrollbar-thumb:hover { 
+background: #b30000;  
+
+} 
+</style> 
+	</head>    
+	<body> 
+	<head> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<style> 
+	* {box-sizing: border-box} 
+	body {font-family: Verdana, sans-serif; margin:0} 
+	.mySlides {display: none} 
+	img {vertical-align: middle;} 
+	/* Slideshow container */ 
+	.slideshow-container { 
+	max-width: 500px; 
+	position: relative; 
+	margin: auto; 
+	
+} 
+	/* Next & previous buttons */ 
+	.prev, .next { 
+	cursor: pointer; 
+	position: absolute; 
+	top: 50%; 
+	width: auto; 
+	padding: 50px; 
+	margin-top: -22px; 
+	color: black; 
+	font-weight: bold; 
+	font-size: 40px; 
+	transition: 0.7s ease; 
+
+ 		border-radius: 0 3px 3px 0; 
+
+  user-select: none; 
+} 
+
+ /* Position the "next button" to the right */ 
+
+.next { 
+
+  right: 0; 
+
+  border-radius: 3px 0 0 3px; 
+
+} 
+/* On hover, add a black background color with a little bit see-through */ 
+
+.prev:hover, .next:hover { 
+
+  background-color: rgba(0,0,0,0.8); 
+
+} 
+/* Caption text */ 
+
+.text { 
+
+  color: #f2f2f2; 
+
+  font-size: 15px; 
+
+  padding: 8px 12px; 
+
+  position: absolute; 
+
+  bottom: 8px; 
+
+  width: 100%; 
+
+  text-align: center; 
+
+} 
+
+  
+
+/* Number text (1/3 etc) */ 
+
+.numbertext { 
+
+  color: #f2f2f2; 
+
+  font-size: 12px; 
+
+  padding: 8px 12px; 
+
+  position: absolute; 
+
+  top: 0; 
+
+} 
+
+  
+
+/* The dots/bullets/indicators */ 
+
+.dot { 
+
+  cursor: pointer; 
+
+  height: 15px; 
+
+  width: 15px; 
+
+  margin: 0 2px; 
+
+  background-color: #bbb; 
+
+  border-radius: 50%; 
+
+  display: inline-block; 
+
+  transition: background-color 0.6s ease; 
+
+} 
+
+  
+
+.active, .dot:hover { 
+
+  background-color: #717171; 
+
+} 
+
+  
+
+/* Fading animation */ 
+
+.fade { 
+
+  -webkit-animation-name: fade; 
+
+  -webkit-animation-duration: 1.5s; 
+
+  animation-name: fade; 
+
+  animation-duration: 1.5s; 
+
+} 
+
+  
+
+@-webkit-keyframes fade { 
+
+  from {opacity: .4}  
+
+  to {opacity: 1} 
+
+} 
+
+  
+
+@keyframes fade { 
+
+  from {opacity: .4}  
+
+  to {opacity: 1} 
+
+} 
+
+  
+
+/* On smaller screens, decrease text size */ 
+
+@media only screen and (max-width: 300px) { 
+
+  .prev, .next,.text {font-size: 11px} 
+
+} 
+
+</style> 
+
+</head> 
+
+<body> 
+
+  
+
+<div class="slideshow-container"> 
+
+  
+
+<div class="mySlides fade"> 
+<div class="numbertext">1 / 3</div> 
+<center><img src="blm.png" style="width:500px;height:600px"></center> 
+
+  <div class="text"><html>
+<body>
+
+
+
+<button type="button" onclick="alert('Black Lives Matter')">Click Me!</button>
+ 
+</body>
+</html></div> 
+
+</div> 
+</div> 
+
+</div> 
+
+  
+
+<div class="mySlides fade"> 
+
+  <div class="numbertext">2 / 3</div> 
+
+  <center><img src="card.png" style="width:500px;height:600px"></center> 
+
+  <div class="text"><html>
+<body>
+
+
+
+<button type="button" onclick="alert('Valentine Card')">Click Me!</button>
+ 
+</body>
+</html></div> 
+
+</div> 
+
+  
+
+<div class="mySlides fade"> 
+
+  <div class="numbertext">3 / 3</div> 
+
+  <center><img src="kingkong.png" style="width:500px;height:600px"></center> 
+
+  <div class="text"></div> 
+<button type="button" onclick="alert('King Kong poster')">Click Me!</button>
+ 
+</body>
+</html></div> 
+
+</div> 
+</div> 
+
+  
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a> 
+
+<a class="next" onclick="plusSlides(1)">&#10095;</a> 
+
+  
+
+</div> 
+
+<br> 
+
+  
+
+<div style="text-align:center"> 
+
+  <span class="dot" onclick="currentSlide(1)"></span>  
+
+  <span class="dot" onclick="currentSlide(2)"></span>  
+
+  <span class="dot" onclick="currentSlide(3)"></span>  
+
+</div> 
+
+  
+
+<script> 
+
+var slideIndex = 1; 
+
+showSlides(slideIndex); 
+
+  
+
+function plusSlides(n) { 
+
+  showSlides(slideIndex += n); 
+
+} 
+
+  
+
+function currentSlide(n) { 
+
+  showSlides(slideIndex = n); 
+
+} 
+
+  
+
+function showSlides(n) { 
+
+  var i; 
+
+  var slides = document.getElementsByClassName("mySlides"); 
+
+  var dots = document.getElementsByClassName("dot"); 
+
+  if (n > slides.length) {slideIndex = 1}     
+
+  if (n < 1) {slideIndex = slides.length} 
+
+  for (i = 0; i < slides.length; i++) { 
+
+      slides[i].style.display = "none";   
+
+  } 
+
+  for (i = 0; i < dots.length; i++) { 
+
+      dots[i].className = dots[i].className.replace(" active", ""); 
+
+  } 
+
+  slides[slideIndex-1].style.display = "block";   
+
+  dots[slideIndex-1].className += " active"; 
+
+} 
+
+</script> 
+
+</p> 
+
+<title>Camilla's Website </title> 
+
+        <script type="text/javascript"> 
+
+        var msg  = document.title; 
+
+        var speed = 150; 
+
+        var endChar = "...";  
+
+        var pos = 0; 
+
+       
+
+        function moveTitle() 
+
+        { 
+
+        var ml = msg.length; 
+
+               
+
+        title = msg.substr(pos,ml) + endChar + msg.substr(0,pos); 
+
+        document.title = title; 
+
+           
+
+        pos++; 
+
+        if (pos > ml) pos=0; 
+
+        window.setTimeout("moveTitle()",speed); 
+
+        } 
+
+   
+
+        moveTitle(); 
+
+    </script> 
+
+    <head>
+<!DOCTYPE html>
+<html lang = "en-US">
+ <head>
+ <meta charset = "UTF-8">
+ <style type = "text/css">
+  h1 {
+  border-color: #C3C5E0;
+  border-width: .20em;
+  border-style: double;
+  }</p>
+ </style>
+ </head>
+ <body>
+ <right><h1></h1></right></h 
+
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+<style> 
+
+/* width */ 
+
+::-webkit-scrollbar { 
+
+  width: 20px; 
+
+} 
+
+  
+
+/* Track */ 
+
+::-webkit-scrollbar-track { 
+
+  box-shadow: inset 0 0 5px grey;  
+
+  border-radius: 10px; 
+
+} 
+
+<html> 
+
+<head> 
+
+/* Handle */ 
+
+::-webkit-scrollbar-thumb { 
+
+  background: red;  
+
+  border-radius: 10px; 
+
+} 
+
+  
+
+/* Handle on hover */ 
+
+::-webkit-scrollbar-thumb:hover { 
+
+  background: #b30000;  
+
+} 
+
+</style> 
+
+</head>    
+
+  
+
+
+
+<style> 
+#example1 {
+  background-trigangle: brown;
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+}
+</style>
+</head>
+<body>
+
+<h1><font face="Times New Roman><font size="+3.5">
+			My Favourite Ice Cream shop is "Glenburn Soda Fountain and Confectionery".
+		
+			
+		
+	</body></h1>
+
+
+ <body>
+ <right><h1><font size="+2"><font face="Times New Roman">
+This is the location for the ice cream shop <a href="https://www.bing.com/maps?q=Glenburn+Soda+Fountain+%26+Confectionery+Burnaby&filters=cacheid%3a%220ccaf2ee-a4ad-4910-9c31-72edd8ff41ce%22+cq%3a%22ice+cream+shop+burnaby+bc%22+segment%3a%22Restaurant%22+local_ypid%3a%22YN1226x889482912%22+ufn%3a%22Glenburn+Soda+Fountain++Confectionery+Burnaby%22&FORM=SNAPCR&crslsl=0
+">detailed directions</a>.
+</h1></right></h1>
+
+</p>
+<body>
+
+<!DOCTYPE html>
+<html lang = "en-US">
+ <head>
+ <meta charset = "UTF-8">
+ <style type = "text/css">
+  h1 {
+  border-color: ##C3C5E0;
+  border-width: .20em;
+  border-style: double;
+  }</p>
+ </style>
+ </head>
+ <body>
+ <right><h1></h1></right></h1>
+<head>
+<style>
+
+<canvas id="myCanvas">
+Your browser does not support the canvas tag.
+</canvas>
+
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.fillStyle = "#748D63";
+ctx.fillRect(20, 20, 75, 50);
+
+//Turn transparency on
+ctx.globalAlpha = 0.2;
+ctx.fillStyle = "#F5E6DC"; 
+ctx.fillRect(50, 50, 75, 50); 
+ctx.fillStyle = "#DEDCF5"; 
+ctx.fillRect(80, 80, 75, 50);
+</script>
+
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.fillStyle = "#faebd7";
+ctx.fillRect(40, 40, 95, 70);
+
+//Turn transparency on
+ctx.globalAlpha = 0.2;
+ctx.fillStyle = "#f0fff0"; 
+ctx.fillRect(70, 70, 95, 70); 
+ctx.fillStyle = "Grey"; 
+ctx.fillRect(100, 100, 95, 70);
+</script>
+<marquee behavior="scroll" direction="right">
+<img src="fish.gif" alt="Swimming fish">
+</marquee>
+<p>
+<body>
+<p>
+<!DOCTYPE html>
+<html lang = "en-US">
+ <head>
+ <meta charset = "UTF-8">
+ <style type = "text/css">
+  h1 {
+  border-color: ##C3C5E0;
+  border-width: .20em;
+  border-style: double;
+
+h1 {
+  text-shadow: 2px 2px #66ff66;
+
+p.ex1 {
+  border: 1px solid red; 
+  padding: 35px;
+}
+
+p.ex2 {
+  border: 1px #C3C5E0; 
+  margin: 35px;
+
+
+</style>
+</head>
+<body>
+
+<h1></h1>
+
+<p class="Here is the link to a website I chose</p>
+
+
+h1 {
+  text-shadow: 2px 2px #66ff66;
+
+
+
+<!DOCTYPE html>
+<html lang = "en-US">
+ <head>
+ <meta charset = "UTF-8">
+ <style type = "text/css">
+  h1 {
+  border-color: #C3C5E0;
+  border-width: .20em;
+  border-style: double;
+}</p>
+<!DOCTYPE html>
+<html lang = "en-US">
+ <head>
+ <meta charset = "UTF-8">
+ <style type = "text/css">
+  h1 {
+  border-color: ##C3C5E0;
+  border-width: .20em;
+  border-style: double;
+  }</p>
+ </style>
+ </head>
+ <body>
+ <right><h1><p class="ex1"><p>The image below is a link to the website I chose. Try to click on the lemon.</p>
+
+<a href="https://www.apple.com/ca/?afid=p238%7CYccrbc3X-dc_mtid_1870765e38482_pcrid_78134194258840_pgrid_5206919623_&cid=aos-ca-kwbi-Brand--slid---product-"><img src="lemon.png" alt="HTML tutorial" style="width:42px;height:42px;"></a>
+
+</body>
+</html></p></h></h1></right></h1>
+<head>
+<style>
+
+<canvas id="myCanvas">
+Your browser does not support the canvas tag.
+</canvas>
+
+</style>
+</head>
+<body>
+
+<h1><marquee behavior="scroll" direction="left">
+<img src="fish.gif" alt="Swimming fish">
+</marquee></h1>
+
+<p class="Here is the link to a website I chose</p>
+
+
+
+
+
+
+
+ 
